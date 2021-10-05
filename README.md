@@ -1,6 +1,7 @@
 # Lariat-Car-Rental
-Analysis of Lariat Car Rental data
-The is a Portfolio Project created as a part of attending Thinkful to obtain a certificate in Data Analysis
+## Analysis of Lariat Car Rental data.
+
+This is a Portfolio Project created as a part of attending Thinkful to obtain a certificate in Data Analysis
 
 In this project I peformed an analysis of business data for the fictional company "Lariat Rent-A-Car".
 
